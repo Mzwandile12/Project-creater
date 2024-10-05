@@ -1,0 +1,8 @@
+{
+  "name": "Firebase Development Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+  "features": [
+    "vscode-dev-containers-python"
+  ],
+  "postCreateCommand": "pip install firebase-admin"
+}
