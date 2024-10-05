@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1084150595709",
+    "firebase_url": "https://my-awesome-project-cc2fe-default-rtdb.firebaseio.com",
+    "project_id": "my-awesome-project-cc2fe",
+    "storage_bucket": "my-awesome-project-cc2fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084150595709:android:0dcc319c4a3ecf50bab114",
+        "android_client_info": {
+          "package_name": "Website.co.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084150595709-t8fji9ur5bs29ga48j7cv6l2akm4t8c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Website.co.in",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "1084150595709-ipdbu3a5hli8mfootsdc52965ba79vu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpL3yOYzEEywaRaqZXfJc_6Ls4yguOBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084150595709-f7knotlljug2u3mv866it958bv1ssqqm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1084150595709-19f9ljqoqjp47ji1csp2gu37pi4dceun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Website.co.in",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
